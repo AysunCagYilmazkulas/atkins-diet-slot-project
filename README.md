@@ -20,6 +20,10 @@ This project is a slot game themed around the Atkins Diet, designed to analyze a
 2. Analyze the paytable and spin-win distribution to understand game behavior.
 3. Run the simulations to observe payout trends and performance.
 
+## Summary
+
+<img width="738" alt="Atkins Diet Expected   Simulation Results" src="https://github.com/user-attachments/assets/67f37b2b-4ece-4638-81dc-767dec0b3e38" />
+
 ## Requirements
 
 To run this project, install the required dependencies:
